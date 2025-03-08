@@ -22,7 +22,7 @@ const switchTheme = () => {
 }
 
 .square.light {
-  background: white;
+  background: rgb(224, 127, 127);
 }
 
 .square:hover {
