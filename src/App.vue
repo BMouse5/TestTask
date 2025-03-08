@@ -1,7 +1,6 @@
 <template>
   <div class="container">
     <SquareComp></SquareComp>
-    <button>Check</button>
   </div>
 </template>
 <script setup>
